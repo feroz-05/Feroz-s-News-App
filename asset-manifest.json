@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Feroz-s-News-App/static/css/main.ccb2ca20.css",
+    "main.js": "/Feroz-s-News-App/static/js/main.d13c663d.js",
+    "static/js/453.08c78f33.chunk.js": "/Feroz-s-News-App/static/js/453.08c78f33.chunk.js",
+    "static/media/loading.gif": "/Feroz-s-News-App/static/media/loading.1e6b4c469340c0a4ecd8.gif",
+    "index.html": "/Feroz-s-News-App/index.html",
+    "main.ccb2ca20.css.map": "/Feroz-s-News-App/static/css/main.ccb2ca20.css.map",
+    "main.d13c663d.js.map": "/Feroz-s-News-App/static/js/main.d13c663d.js.map",
+    "453.08c78f33.chunk.js.map": "/Feroz-s-News-App/static/js/453.08c78f33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb2ca20.css",
+    "static/js/main.d13c663d.js"
+  ]
+}
